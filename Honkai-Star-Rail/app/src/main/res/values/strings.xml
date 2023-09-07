@@ -1,0 +1,131 @@
+<resources>
+    <string name="app_name">Honkai Star Rail</string>
+    <string name="char_name">Nama Karakter</string>
+    <string name="list_description">list description</string>
+    <string name="story">Story</string>
+    <string name="share">Share</string>
+
+    <string name="about">About</string>
+    <string name="name">Abdullah Hali Saputra</string>
+    <string name="email">abdullahhalis12@gmail.com</string>
+    <string name="github">https://github.com/abdullahhalis</string>
+    <string name="linkedin">https://www.linkedin.com/in/abdullahhalis/</string>
+
+    <string-array name="data_name">
+        <item>Silver Wolf</item>
+        <item>Kafka</item>
+        <item>Blade</item>
+        <item>March 7th</item>
+        <item>Himeko</item>
+        <item>Herta</item>
+        <item>Clara</item>
+        <item>Hook</item>
+        <item>Bailu</item>
+        <item>Yanqing</item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>https://upload-static.hoyoverse.com/hoyolab-wiki/2023/06/05/5308864/b59604087f67ed3d1828c08a104be302_1832310283239375798.png?x-oss-process=image%2Fformat%2Cwebp</item>
+        <item>https://upload-static.hoyoverse.com/hoyolab-wiki/2023/05/27/5308864/4893a52c54b02106778799cbebd289f6_452357800696146209.png?x-oss-process=image%2Fformat%2Cwebp</item>
+        <item>https://upload-static.hoyoverse.com/hoyolab-wiki/2023/05/24/5308864/64c098cc21d7f053a020f4e051407e41_4906678554337574546.png?x-oss-process=image%2Fformat%2Cwebp</item>
+        <item>https://upload-static.hoyoverse.com/hoyowiki/2023/02/21/0047e5284a840424de8b21d1ccd042cd_933159568797000001.png?x-oss-process=image%2Fformat%2Cwebp</item>
+        <item>https://upload-static.hoyoverse.com/hoyowiki/2023/02/21/6170656b26d7383d0ee34f002284d3ff_7335309365701961860.png?x-oss-process=image%2Fformat%2Cwebp</item>
+        <item>https://upload-static.hoyoverse.com/hoyowiki/2023/02/21/a755d7167aa226264cb5aa26f70f9736_6990891585355987615.png?x-oss-process=image%2Fformat%2Cwebp</item>
+        <item>https://upload-static.hoyoverse.com/hoyowiki/2023/02/21/36ac7d1e87145434d0617a511066a3db_1713347165320581354.png?x-oss-process=image%2Fformat%2Cwebp</item>
+        <item>https://upload-static.hoyoverse.com/hoyowiki/2023/02/21/22823e36686017767fa0310dd44d2eb4_115117260001571580.png?x-oss-process=image%2Fformat%2Cwebp</item>
+        <item>https://upload-static.hoyoverse.com/hoyowiki/2023/02/21/9c766b0feb6256141c1ec7afcd3dff35_6990891585355987615.png?x-oss-process=image%2Fformat%2Cwebp</item>
+        <item>https://upload-static.hoyoverse.com/hoyowiki/2023/02/21/2fbbdcb50ff8388ec2c6723c6385fb84_4490115586020920921.png?x-oss-process=image%2Fformat%2Cwebp</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>
+            Path: The Nihility
+            \nCombat Type: Quantum
+            \nFaction: Stellaron Hunters
+        </item>
+        <item>
+            Path: The Nihility
+            \nCombat Type: Lightning
+            \nFaction: Stellaron Hunters
+        </item>
+        <item>
+            Path: The Destruction
+            \nCombat Type: Wind
+            \nFaction: Stellaron Hunters
+        </item>
+        <item>
+            Path: The Preservation
+            \nCombat Type: Ice
+            \nFaction: Astral Express
+        </item>
+        <item>
+            Path: The Erudition
+            \nCombat Type: Fire
+            \nFaction: Astral Express
+        </item>
+        <item>
+            Path: The Erudition
+            \nCombat Type: ice
+            \nFaction: Herta Space Station
+        </item>
+        <item>
+            Path: The Destruction
+            \nCombat Type: Physical
+            \nFaction: Belobog
+        </item>
+        <item>
+            Path: The Destruction
+            \nCombat Type: Fire
+            \nFaction: Belobog
+        </item>
+        <item>
+            Path: The Abundance
+            \nCombat Type: Lightning
+            \nFaction: Xianzhou Luofu
+        </item>
+        <item>
+            Path: The Hunt
+            \nCombat Type: Ice
+            \nFaction: Xianzhou Luofu
+        </item>
+    </string-array>
+
+    <string-array name="detail_photo">
+        <item>https://upload-static.hoyoverse.com/hoyolab-wiki/2023/05/10/5308864/13456c6f9e93a85901d5729d9368a05e_5541299466957062653.png?x-oss-process=image%2Fformat%2Cwebp</item>
+        <item>https://upload-static.hoyoverse.com/hoyolab-wiki/2023/05/27/5308864/65d197d46bb434c561ba157123d8565e_3324824020268332080.png?x-oss-process=image%2Fformat%2Cwebp</item>
+        <item>https://upload-static.hoyoverse.com/hoyolab-wiki/2023/05/24/5308864/69979126001789194203104611286cc4_7182966574849486053.png?x-oss-process=image%2Fformat%2Cwebp</item>
+        <item>https://upload-static.hoyoverse.com/hoyowiki/2023/02/21/1721c5c450299615748e2fa4971e2746_2999314882560891227.png?x-oss-process=image%2Fformat%2Cwebp</item>
+        <item>https://upload-static.hoyoverse.com/hoyowiki/2023/02/21/887a32cddacb19f1bb2af4b0764e0769_5889631051507738416.png?x-oss-process=image%2Fformat%2Cwebp</item>
+        <item>https://upload-static.hoyoverse.com/hoyowiki/2023/02/21/413ccdf412656119eb9205c6db098706_7321507023883975762.png?x-oss-process=image%2Fformat%2Cwebp</item>
+        <item>https://upload-static.hoyoverse.com/hoyowiki/2023/02/21/fc98321aa4593969d912a83bcc9c0d58_3913364161979936619.png?x-oss-process=image%2Fformat%2Cwebp</item>
+        <item>https://upload-static.hoyoverse.com/hoyowiki/2023/02/21/75005d84d76b376bf94435a928cf3392_2999314882560891227.png?x-oss-process=image%2Fformat%2Cwebp</item>
+        <item>https://upload-static.hoyoverse.com/hoyowiki/2023/02/21/543fbe873e6d21cf3d730bc69c5b4226_6773667685205279792.png?x-oss-process=image%2Fformat%2Cwebp</item>
+        <item>https://upload-static.hoyoverse.com/hoyowiki/2023/02/21/c05c4f13d0b7efdf751b450a33dc417b_1711910135236400099.png?x-oss-process=image%2Fformat%2Cwebp</item>
+    </string-array>
+
+    <string-array name="detail_story">
+        <item>The universe is just another game to this super hacker. No matter how thorny the defense system, Silver Wolf can crack it with ease. Her hacking battle with Screwllum of the Genius Society has become stuff of legends in the hacking world. How many more levels are there to beat in the universe? Silver Wolf looks forward to finding out.</item>
+        <item>On the Interastral Peace Corporation\'s wanted list, Kafka\'s record only shows her name and a note about her \"interest in collecting coats.\" Little is known about this Stellaron Hunter aside from her being one of \"Destiny\'s Slave\" Elio\'s most trusted members. In order to achieve Elio\'s envisioned future, Kafka gets to work.</item>
+        <item>A swordsman who abandoned his body to become a blade. Birth name unknown. He pledges loyalty to \"Destiny\'s Slave,\" and possesses a terrifying self-healing ability. Blade wields an ancient sword riddled with cracks, just like his body and his mind.</item>
+        <item>A spirited and quirky young girl who is into all the things girls her age are interested in, such as taking photos. She was awakened from a piece of drifting eternal ice, only to find that she knows nothing about herself or her past. Though initially feeling dejected, she decided to name herself after the date of her rebirth. And thus, on that day, March 7th was born.</item>
+        <item>An adventurous scientist who encountered the Astral Express as a young woman when it got stranded in her homeworld. Years later, when Himeko finally repairs the Express and begins her journey into the stars, she realized that this is only the beginning. On her journey to trailblaze new worlds, she would need many more companions And while they may have different destinations, they all gaze at the same starry sky.</item>
+        <item>Herta space station\'s true master. As the human with the highest IQ on the Blue, she only does what she\'s interested in, dropping projects the moment she loses interest — the best example being the space station. She typically appears in the form of a remote-controlled puppet. \"It\'s about seventy percent similar to how I looked as a child.\" — Herta</item>
+        <item>A young girl raised by a robot. Her perceptiveness and tenacity are far beyond her years. For Clara, Svarog\'s logical calculations are the laws of the world and are infallible. That is, until she realizes that the results from the calculations don\'t always necessarily bring joy to everyone. The once shy little girl then decides to cast aside her timidness.</item>
+        <item>Head of the adventure squad \"The Moles,\" she calls herself Pitch-Dark Hook the Great. She doesn\'t like to be called a \"kid\" and believes she can handle things herself without any help from adults. Adults adventure into the Fragmentum, Mr. Sampo adventures on the surface, and patients take their risky adventure seeking treatment from Natasha Under the leadership of Hook, children can also have their own adventures!</item>
+        <item>A vivacious young lady of the Vidyadhara race, she is known as the \"Healer Lady\" due to her expertise with medicine. She often dishes out unorthodox prescriptions such as \"Stay well hydrated\" and \"Get a good night\'s rest.\" Bailu cannot bear to see people suffer, and that\'s why you\'ll see her with her eyes shut tightly as she cures ailments. \"As long as they\'re cured, that\'s all that matters, right?\"</item>
+        <item>The spirited lieutenant of the Xianzhou Luofu, and also its most proficient swordsman. He was born for the sword and is obsessed with it. Whenever a sword rests in Yanqing\'s hand, none would dare underestimate this genius still in the early days of his youth. Perhaps the only thing capable of dulling his treasured blade\'s sharp edge is time.</item>
+    </string-array>
+
+    <string-array name="link">
+        <item>https://wiki.hoyolab.com/pc/hsr/entry/710</item>
+        <item>https://wiki.hoyolab.com/pc/hsr/entry/791</item>
+        <item>https://wiki.hoyolab.com/pc/hsr/entry/789</item>
+        <item>https://wiki.hoyolab.com/pc/hsr/entry/7</item>
+        <item>https://wiki.hoyolab.com/pc/hsr/entry/9</item>
+        <item>https://wiki.hoyolab.com/pc/hsr/entry/13</item>
+        <item>https://wiki.hoyolab.com/pc/hsr/entry/20</item>
+        <item>https://wiki.hoyolab.com/pc/hsr/entry/22</item>
+        <item>https://wiki.hoyolab.com/pc/hsr/entry/29</item>
+        <item>https://wiki.hoyolab.com/pc/hsr/entry/28</item>
+    </string-array>
+</resources>
